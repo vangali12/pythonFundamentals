@@ -1,0 +1,7 @@
+pip install Django - installs the Django framework
+pip list - shows all of the items in this directory
+pip install Django - says all requirements have already been met, therefore it already exists in this directory
+pip freeze - shows the versions of each of the frameworks available in this directory
+pip uninstall Django - literally uninstalls the package
+pip show Django - nothing, Django is no longer in the directory, therefore it can't find it
+pip search Flask - shows all of the options with Flask framework
